@@ -34,7 +34,6 @@ For **power users** who need full control over Dock behavior, including automati
 
 ❗ **Requires at least two monitors** to function.  
 ❗ **Only works when the Dock is at the bottom** of the screen.  
-❗ **Not compatible with auto-hide mode.** A future update may address this.
 
 ---
 
