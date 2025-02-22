@@ -1,4 +1,4 @@
-# DockLock – Take Control of Your Mac’s Dock
+# DockLock Pro – Take Control of Your Mac’s Dock
 
 **Stop the Dock from Jumping Between Screens**  
 If you use multiple monitors, you’ve probably experienced the frustration of your **Dock moving unexpectedly** when your cursor reaches the bottom of another display. **DockLock** puts an end to this annoyance, ensuring your Dock stays exactly where you want it.
