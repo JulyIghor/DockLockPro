@@ -7,6 +7,10 @@ If you use multiple monitors, you've likely experienced the **frustration of the
 
 [![Download on the Mac App Store](https://docklockpro.com/images/MacAppStoreBadge.svg)](https://apps.apple.com/app/apple-store/id6741814079?pt=127627850&ct=github&mt=8)
 
+📥 **Download DockLock+ on the Mac App Store:**
+
+[![Download on the Mac App Store](https://docklockpro.com/images/MacAppStoreBadge.svg)](https://apps.apple.com/app/apple-store/id6742222132?pt=127627850&ct=github&mt=8)
+
 ---
 
 ## 🚀 What DockLock Lite Can Do
@@ -22,6 +26,7 @@ If you use multiple monitors, you've likely experienced the **frustration of the
 - **No Security Features Need to Be Disabled** – Fully macOS-compatible.
 
 💡 **All future updates & features are included with a one-time purchase.**
+ **DockLock+ and DockLock Lite+ have identical features; the difference is the payment model (one-time purchase vs. in-app purchases).**
 
 ---
 
