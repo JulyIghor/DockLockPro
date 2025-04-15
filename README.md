@@ -71,9 +71,3 @@ Created by **[Ihor July](https://github.com/JulyIghor)** – Software Developer,
 - 🐞 **Bug Reports & Feature Requests:** [GitHub Issues](https://github.com/JulyIghor/DockLockPro/issues)
 - 📧 **Support Contact:** [support@docklock.pro](mailto:support@docklock.pro)
 - 🌐 **Website:** [docklockpro.com](https://docklockpro.com)
-
----
-
-## 🚀 Get DockLock Lite Today & Take Control of Your Dock!
-
-📥 [**Download Now on the Mac App Store**](https://apps.apple.com/app/apple-store/id6741814079?pt=127627850&ct=github&mt=8)
