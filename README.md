@@ -1,73 +1,57 @@
 # DockLock Pro – Take Full Control of Your Mac's Dock
 
-## 🖥 Prevent Your Dock from Jumping Screens
-If you use multiple monitors, you've likely experienced the **frustration of the Dock moving unexpectedly** when your cursor reaches the bottom of another display. **DockLock Pro stops this from happening**, ensuring your Dock stays exactly where you want it.
-
 📥 **Download DockLock Lite on the Mac App Store:**
 
-[![Download on the Mac App Store](https://docklockpro.com/images/MacAppStoreBadge.svg)](https://apps.apple.com/app/apple-store/id6741814079?pt=127627850&ct=github&mt=8)
+[![Download on the Mac App Store](https://docklockpro.com/images/mac-app-store-badge.svg)](https://apps.apple.com/app/apple-store/id6741814079?pt=127627850&ct=github&mt=8)
 
 📥 **Download DockLock+ on the Mac App Store:**
 
-[![Download on the Mac App Store](https://docklockpro.com/images/MacAppStoreBadge.svg)](https://apps.apple.com/app/apple-store/id6742222132?pt=127627850&ct=github&mt=8)
+[![Download on the Mac App Store](https://docklockpro.com/images/mac-app-store-badge.svg)](https://apps.apple.com/app/apple-store/id6742222132?pt=127627850&ct=github&mt=8)
 
----
 
-## 🚀 What DockLock Lite Can Do
+**Take Control of Your Mac Dock**  
+The world's first app that prevents your Mac Dock from jumping between screens. Ideal for multi-monitor setups, presentations, and screen sharing — with no system modifications.
 
-- **Prevents Dock from Jumping Screens** – Keeps the Dock on your preferred display.
-- **Runs in the Background** – No system modifications or hacks required.
-- **Enable/Disable Dock Locking** – Toggle Dock control from the menu bar.
-- **Select Screens for Dock Movement** – Choose which monitors allow Dock movement.
-- **Hold a Key to Temporarily Unlock Dock** – Move the Dock only when needed.
-- **Auto-Start at Login** – Launch DockLock Lite automatically with macOS.
-- **Hide Dock & Menu Icons** – Keeps the app running discreetly.
-- **Supports Dock in Auto-Hide Mode** – Keeps the Dock locked even when hidden.
-- **No Security Features Need to Be Disabled** – Fully macOS-compatible.
+## Why DockLock Apps Exist
+If you use multiple monitors on macOS, you’ve likely experienced the frustration of the Dock jumping to another screen when your cursor touches the bottom edge. It’s distracting and disruptive, especially during focused work or screen sharing.
 
-💡 **All future updates & features are included with a one-time purchase.**
- **DockLock+ and DockLock Lite+ have identical features; the difference is the payment model (one-time purchase vs. in-app purchases).**
+**DockLock Apps** solve this by locking the Dock exactly where you want it — without hacks, patches, or performance impact.
 
----
+## Key Features
+- Lock the Dock to a specific display
+- Prevent Dock jumping across monitors
+- Stop Dock pop-ups during screen sharing or meetings
+- Allow temporary Dock movement using a key
+- Fully sandboxed and secure (uses native macOS Accessibility APIs)
 
-## 🔷 DockLock Pro (Coming Soon)
-For **power users** who need **advanced Dock control and automation**.
+## Versions: DockLock Lite vs DockLock+
+Both versions offer the **same full feature set** — the difference is in how you pay:
 
-- **Everything in DockLock Lite**
-- **Manually Move the Dock** – Relocate the Dock via the menu.
-- **Dock Follows Mouse** – Automatically moves to the screen where the cursor lingers.
-- **Hotkey Support** – Quickly move the Dock with customizable shortcuts.
-- **App-Based Rules** – Define which apps allow or restrict Dock movement.
+- **DockLock Lite**: Free 7-day trial, then subscription-based.
+- **DockLock+**: One-time lifetime purchase.
 
-💎 **Exclusive Upgrade Discount**:
-**DockLock Pro will detect App Store purchases** and offer an **exclusive discount** to existing DockLock Lite+ users. **Buy DockLock Lite+ now and secure a lower upgrade price in the future!**
+Choose what fits your preference — subscription flexibility or permanent ownership.
 
----
+## Coming Soon: DockLock Pro
+Advanced conditional Dock logic:
+- Dynamically move the Dock based on window focus, display changes, hotkeys, or app activity.
+- Built for power users.
+- Discounted upgrades will be available for DockLock Lite+ and DockLock+ users.
 
-## ⚠️ Important Notes & Limitations
+## Important Notes
+Before purchasing, review the [Important Notes](https://docklockpro.com/important-notes/) to understand compatibility and limitations based on your macOS setup.
 
-- **Requires at least two monitors** to function.
-- **Works only when the Dock is positioned at the bottom** of the screen.
-- **The macOS option "Displays have separate Spaces" must be enabled.**
-- **Dock Locking is active only while the app is running.**
-- **Command+Tab follows the Dock's location** – keeping it on the selected screen.
-- **If you hide the menu bar icon, double-clicking the app icon will reopen settings.**
+## About the Developer
+Developed by **Ihor July**, a Ukrainian cybersecurity expert and reverse engineer. DockLock Apps are built natively for macOS, ensuring long-term stability and performance without modifying system components.
 
-🔹 **Why This Problem Happens:**
-Many users move their mouse randomly when searching for the cursor. If the cursor reaches the bottom of an external monitor, macOS mistakenly moves the Dock there. **DockLock Pro prevents this from happening.**
+## Links
+- [Official Website](https://docklockpro.com/)
+- [DockLock Lite on Mac App Store](https://apps.apple.com/app/apple-store/id6741814079?pt=127627850&ct=www&mt=8)
+- [DockLock+ (Lifetime) on Mac App Store](https://apps.apple.com/app/apple-store/id6743010619?pt=127627850&ct=www&mt=8)
+- [FAQ](https://docklockpro.com/faq/)
+- [Telegram Channel](https://t.me/DockLockPro)
+- [Twitter/X](https://x.com/DockLockPro)
+- [Facebook](https://www.facebook.com/DockLockPro)
 
----
-
-## 👨‍💻 About the Developer
-
-Created by **[Ihor July](https://github.com/JulyIghor)** – Software Developer, Cyber Security Expert, and Reverse Engineer.
-
-> “For years, I struggled with macOS's unpredictable Dock behavior, and after seeing hundreds of users searching for a fix, I decided to build **DockLock Pro**. Now, you can finally control where your Dock stays.”
-
----
-
-## 🛠 Report Issues & Get Support
-
-- 🐞 **Bug Reports & Feature Requests:** [GitHub Issues](https://github.com/JulyIghor/DockLockPro/issues)
-- 📧 **Support Contact:** [support@docklock.pro](mailto:support@docklock.pro)
-- 🌐 **Website:** [docklockpro.com](https://docklockpro.com)
+## License
+© 2025 Ihor July. All rights reserved.
