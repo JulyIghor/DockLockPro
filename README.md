@@ -22,6 +22,7 @@ If you use multiple monitors on macOS, you’ve likely experienced the frustrati
 - Prevent Dock jumping across monitors
 - Stop Dock pop-ups during screen sharing or meetings
 - Allow temporary Dock movement using a key
+- Runs on macOS 10.9 and newer (since 2013), meaning it is compatible with every macOS version that has the Dock jumping issue.
 - Fully sandboxed and secure (uses native macOS Accessibility APIs)
 
 ## Versions: DockLock Lite vs DockLock Plus
@@ -62,4 +63,4 @@ Developed by **Ihor July**, a Ukrainian cybersecurity expert and reverse enginee
 - [Discord](https://discord.gg/VhYu4bFm)
 
 ## License
-© 2025 Ihor July. All rights reserved.
+© 2026 Ihor July. All rights reserved.
