@@ -60,7 +60,7 @@ Developed by **Ihor July**, a Ukrainian cybersecurity expert and reverse enginee
 - [Telegram Channel](https://t.me/DockLockPro)
 - [Twitter/X](https://x.com/DockLockPro)
 - [Facebook](https://www.facebook.com/DockLockPro)
-- [Discord](https://discord.gg/VhYu4bFm)
+- [Ihor July](https://t.me/ighor)
 
 ## License
 © 2026 Ihor July. All rights reserved.
